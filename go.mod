@@ -1,4 +1,4 @@
-module github.com/sunny0826/go-chatglm
+module github.com/star3s/go-chatglm
 
 go 1.19
 
